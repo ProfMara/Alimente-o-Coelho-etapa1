@@ -1,1 +1,1 @@
-# C29-AA1
+# Primeira etapa da criação do jogo Corte a Corda.
